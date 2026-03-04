@@ -1,16 +1,21 @@
-## Hi there 👋
+### 👋 Привет, я Максим Юдин
 
-<!--
-**yudinmaxim/yudinmaxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Живу в Великом Новгороде (Россия), работаю удалённо.  
+Более 5 лет активно разрабатываю на **Vue** (2/3, Composition API, Pinia), **TypeScript**, **Vite**.  
+До этого много лет занимался встраиваемыми системами, робототехникой и R&D (C/C++, C#).
 
-Here are some ideas to get you started:
+Сейчас фокусируюсь на архитектуре фронтенда, микрофронтендах (Module Federation), оптимизации сборки и создании удобных инструментов для разработки.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔧 Что использую
+- **Frontend**: Vue, TypeScript, Vite, Webpack, Module Federation, Storybook, Pinia, Vuex
+- **Testing**: Vitest, Jest
+- **Infra**: Docker, CI/CD (GitLab CI), Rush (монорепозитории), npm scripts
+- **Other**: C/C++, C#, Node.js, Figma, C4
+
+#### 📂 Проекты (в разработке / pet-проекты)
+- [Библиотека утилитарных CSS-классов, основанных на дизайнтокенах](https://github.com/yudinmaxim/ustatic-css)
+
+#### 📫 Связаться
+- Telegram: [@yudinmn](https://t.me/yudinmn)
+- Email: yudin.mn@mail.ru
+- [Резюме (PDF)](https://novgorod.hh.ru/resume/8af6acc9ff059c99e90039ed1f45756c45484e)
