@@ -7,13 +7,14 @@
 Сейчас фокусируюсь на архитектуре фронтенда, микрофронтендах (Module Federation), оптимизации сборки и создании удобных инструментов для разработки.
 
 #### 🔧 Что использую
-- **Frontend**: Vue, TypeScript, Vite, Webpack, Module Federation, Storybook, Pinia, Vuex
+- **Frontend**: Vue, TypeScript, Vite, Module Federation, Storybook, Pinia, Vuex, scss
 - **Testing**: Vitest, Jest
 - **Infra**: Docker, CI/CD (GitLab CI), Rush (монорепозитории), npm scripts
-- **Other**: C/C++, C#, Node.js, Figma, C4
+- **Other**: C/C++, Node.js, Figma, C4, EChart, ApexChart, D3, rush-js, Electron, Nativescript-vue, capacitor, Docker, git-lab submodules
 
 #### 📂 Проекты (в разработке / pet-проекты)
 - [Библиотека утилитарных CSS-классов, основанных на дизайнтокенах](https://github.com/yudinmaxim/ustatic-css)
+- [Vite Plugin: Logger](https://github.com/yudinmaxim/vite-plugin-logger)
 
 #### 📫 Связаться
 - Telegram: [@yudinmn](https://t.me/yudinmn)
