@@ -10,7 +10,7 @@
 - **Frontend**: Vue, TypeScript, Vite, Module Federation, Storybook, Pinia, Vuex, scss
 - **Testing**: Vitest, Jest
 - **Infra**: Docker, CI/CD (GitLab CI), Rush (монорепозитории), npm scripts
-- **Other**: C/C++, Node.js, Figma, C4, EChart, ApexChart, D3, rush-js, Electron, Nativescript-vue, capacitor, Docker, git-lab submodules
+- **Other**: C/C++, Node.js, Figma, C4, EChart, ApexChart, D3, rush-js, Electron, Nativescript-vue, capacitor, Docker, Gitlab submodules
 
 #### 📂 Проекты (в разработке / pet-проекты)
 - [Библиотека утилитарных CSS-классов, основанных на дизайнтокенах](https://github.com/yudinmaxim/ustatic-css)
